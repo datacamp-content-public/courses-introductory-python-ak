@@ -13,10 +13,10 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+This is an example exercise. You should print a statement
 
 `@instructions`
-
+Print whatever you want to using print("[text here]")
 
 `@hint`
 
@@ -33,7 +33,7 @@ This is an example exercise.
 
 `@solution`
 ```{python}
-
+print("hello world")
 ```
 
 `@sct`
